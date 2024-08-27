@@ -1,21 +1,19 @@
 ---
-title: Java面试题之Java集合框架篇（Java容器篇），29道Java集合框架八股文（7千字38张手绘图），面渣逆袭必看👍
-shortTitle: 面渣逆袭-Java集合框架
-author: 三分恶
+title: 八股文系列-Java集合框架
+shortTitle: Java集合框架
+author: Loong
 category:
   - 面渣逆袭
 tag:
   - 面渣逆袭
-description: 下载次数超 1 万次，7200 字 38 张手绘图，详解 29 道 Java 集合框架面试高频题（让天下没有难背的八股），面渣背会这些 Java 容器八股文，这次吊打面试官，我觉得稳了（手动 dog）。
+description: 八股文系列-Java集合框架
 head:
   - - meta
     - name: keywords
       content: Java,集合框架,Java容器,List,Map,Set,面试题,八股文,java
 ---
 
-7200 字 38 张手绘图，详解 29 道 Java 集合框架面试高频题（让天下没有难背的八股），面渣背会这些 Java 容器八股文，这次吊打面试官，我觉得稳了（手动 dog）。整理：沉默王二，戳[转载链接](https://mp.weixin.qq.com/s/ptbM0EqlnCWeWm9VdSCDLg)，作者：三分恶，戳[原文链接](https://mp.weixin.qq.com/s/SHkQ7LEOT0itt4bXMoDBPw)。
-
-## 引言
+# 引言
 
 ### 1.说说有哪些常见的集合框架？
 
